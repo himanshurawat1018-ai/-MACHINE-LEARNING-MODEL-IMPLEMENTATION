@@ -32,4 +32,5 @@ This project not only demonstrates the use of Scikit-learn in building a predict
 
 In summary, the project is a practical demonstration of spam detection using a real-world dataset, machine learning techniques, and Python libraries. It bridges theoretical knowledge with hands-on implementation and provides a solid introduction to classification tasks in NLP.
 
-OUTPUT
+# OUTPUT
+![Image](https://github.com/user-attachments/assets/479aef03-ea0f-41a6-9136-d279079fe515)
